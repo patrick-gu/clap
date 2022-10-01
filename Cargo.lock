@@ -873,9 +873,9 @@ dependencies = [
 
 [[package]]
 name = "snapbox"
-version = "0.3.1"
+version = "0.4.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "dc9f6603988128836d0ed032a28fac5fb049958e21578e9aed2ed05f69bb562a"
+checksum = "f98a96656eecd1621c5830831b48eb6903a9f86aaeb61b9f358a9bd462414ddd"
 dependencies = [
  "concolor",
  "normalize-line-endings",
@@ -1017,9 +1017,9 @@ dependencies = [
 
 [[package]]
 name = "trycmd"
-version = "0.13.5"
+version = "0.13.7"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "62a09d4fff814904dc04bf60dc19fd7ed41715e3e00dd423eb1c5636a942e2a4"
+checksum = "a5377b33cbe8bb69d97da63e2a2266065a642a47cc9bb3d783c28279d0029fea"
 dependencies = [
  "escargot",
  "glob",
@@ -1028,7 +1028,7 @@ dependencies = [
  "rayon",
  "serde",
  "shlex",
- "snapbox 0.3.1",
+ "snapbox 0.4.0",
  "toml_edit",
 ]
 
